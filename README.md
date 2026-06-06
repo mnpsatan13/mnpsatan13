@@ -3,9 +3,7 @@
 ## 👯 I’m looking to collaborate on democratising AI by making learning easier 
 ## 💬 Ask me about R&D, Healthcare, GenAI, Design Thinking, Data Analytics, Six Sigma  
 ## Interesting article Dr Manmohan & myself wrote https://www.linkedin.com/pulse/ai-trends-health-llms-comparison-prabhakar-m-n-toofc/ 
-## 📫 How to reach me: DM me on Linkedin 
-https://www.linkedin.com/in/prabhakarmn/ 
-## https://www.linkedin.com/in/prabhakarmn/
+## 📫 How to reach me: DM me on Linkedin https://www.linkedin.com/in/prabhakarmn/ 
 ## 😄 Pronouns: He/him
 <!--
 **mnpsatan13/mnpsatan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
