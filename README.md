@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I like to sometimes write small programs that demonstrate GenAI concepts through Google collab 
+## I like to sometimes write programs that demonstrate GenAI concepts through Google collab 
 ## 👯 I’m looking to collaborate on democratising AI by making learning easier
 ## 💬 Ask me about R&D, Healthcare, GenAI, Design Thinking, Data Analytics, Six Sigma
 ## 📫 How to reach me: DM me on Linkedin 
