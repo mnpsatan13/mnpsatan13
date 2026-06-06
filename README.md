@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I like to sometimes write small programs that demonstrate GenAI concepts through Google collab
 <!--
 **mnpsatan13/mnpsatan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
