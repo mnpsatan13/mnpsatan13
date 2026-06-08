@@ -1,5 +1,5 @@
 ## Aloha ! 👋
-## 🔭 I sometimes write programs that demonstrate GenAI concepts through Google collab IDE  
+## 🔭 I write programs that demonstrate GenAI, Machine Learning, AI concepts through Google collab IDE  
 ## 👯 I’m looking to collaborate on democratising AI by making learning easier 
 ## 💬 Ask me about R&D, Healthcare, GenAI, Design Thinking, Data Analytics, Six Sigma  
 ## Interesting article Dr Manmohan & myself wrote https://www.linkedin.com/pulse/ai-trends-health-llms-comparison-prabhakar-m-n-toofc/ 
