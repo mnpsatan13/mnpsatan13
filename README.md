@@ -1,6 +1,6 @@
 ## Aloha ! 👋
 ## 🔭 I write programs that demonstrate GenAI, Machine Learning, AI concepts through Google collab IDE  
-## IMPORTANT: Gitpush has not been done. I'm uploading these word doc  files one by one. 
+## IMPORTANT: Gitpush has not been done. I'm uploading these word doc or PDF files one by one. 
 ## How to use this repository: Just download the word doc, and copy the code to Google Collab to start learning 
 https://github.com/mnpsatan13/GenAI-and-ML-mini-programs AND
 https://github.com/mnpsatan13/GenAI-mini-Projects 
